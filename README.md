@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gishohii
+- 👀 I’m interested in Android Development and the Linux ecosystem
+- 🌱 I’m currently learning Kotlin and i'm looking forward to understanding and implementing what I learn.
